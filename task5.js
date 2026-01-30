@@ -10,5 +10,9 @@ function capital(str){
     return word.join(' ');
 }
 
-const message = "my name is ardi";
+const message = "my name is Mohammad ardi";
 console.log(capital(message));
+
+// let myStr = "my name is Ardi";
+// let word = myStr.split(' ');
+// console.log(word);
